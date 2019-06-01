@@ -1,0 +1,2 @@
+# capstone_stock_trading_policy_optimization
+This capstone project optimizes stock trading policy using Yahoo Finance data and Generic Algorithm to improve ROI and evaluated Sharpe Ratio and Sortino Ratio. Results show that our proposed method outperforms the benchmark buy-and-hold strategy on average in terms of ROI, Sharpe Ratio and Sortino Ratio for both AAPL and SPY for both training data and testing data and back tested with four one-year data since 2014.
